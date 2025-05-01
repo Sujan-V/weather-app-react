@@ -46,16 +46,8 @@ For Reference Watch : https://youtu.be/7wzuievFjrk?si=DVwz_wtYIjdNuWyF
 
 📂 File Structure
 
-my-weather-app/
-├── public/
-│   ├── index.html
-│   └── *.png (weather icons)
-├── src/
-│   ├── App.js
-│   └── index.js
-├── README.md
-├── package.json
-└── ...
+![image](https://github.com/user-attachments/assets/208964f4-ee48-450d-89e1-ebb608f3a552)
+
 
 
 📸 Screenshots

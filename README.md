@@ -45,6 +45,7 @@ GitHub Pages
 For Reference Watch : https://youtu.be/7wzuievFjrk?si=DVwz_wtYIjdNuWyF
 
 📂 File Structure
+
 my-weather-app/
 ├── public/
 │   ├── index.html
